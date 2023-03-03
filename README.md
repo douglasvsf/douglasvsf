@@ -10,6 +10,7 @@ Hi, I’m Douglas Vinicius<br>I’m interested in PHP<br>I’m currently learnin
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=douglasvsf&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=douglasvsf&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=douglasvsf&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
