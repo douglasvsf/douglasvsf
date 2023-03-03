@@ -1,5 +1,7 @@
 # 💫 About Me:
-Hi, I’m Douglas Vinicius<br>I’m interested in PHP<br>I’m currently learning React and node js
+Hi, I’m Douglas Vinicius<br>
+I’m interested in PHP and Jquery<br>
+I’m currently learning Node JS and React
 
 
 ## 🌐 Socials:
