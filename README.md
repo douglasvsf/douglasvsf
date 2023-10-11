@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi, I’m Douglas Vinicius<br>
+# Sobre:
+Salve, sou Douglas Vinicius<br>
 
 
 ## 🌐 Socials:
